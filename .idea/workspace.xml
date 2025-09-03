@@ -5,20 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="203f9815-6532-4104-85d2-fb33149ea6c5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/api-test-python-ps.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests/test_dashboard_student.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests/test_login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/payload/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/payload/loginPayload.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userDefinedVariable.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
