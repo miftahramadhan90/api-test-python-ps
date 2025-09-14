@@ -19,6 +19,7 @@ def student_session(request):
         adapter = HTTPAdapter(max_retries=retries)
         s.mount('https://', adapter)
 
+        print(f"=========DEBUGGING Print password: {payload.student_login} ===========")
         res_login = s.post(f'{baseURL}{login_path}', data=payload.student_login)
         res_login.raise_for_status()
 

@@ -3,12 +3,12 @@ import os
 student_login = {
     "login": "student.vpnsmp1_01",
     "school_id": 1469,
-    "password": "portal732"
+    "password": str(os.environ.get("student_dynamic_pwd_732"))
 }
 student_invalid_login = {
     "login": "student.vpnsmp1_01",
     "school_id": 1469,
-    "password": "password12"
+    "password": "passwor_invalid_123434343))!)*"
 }
 
 admin_login = {
